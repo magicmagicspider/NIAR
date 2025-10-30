@@ -1,6 +1,11 @@
 # NIAR - 网络设备监控系统
 
 版本: 1.0（开发版）
+<img width="1545" height="870" alt="image" src="https://github.com/user-attachments/assets/34f01ec9-f0fc-4865-bc4e-5b7c49ef2653" />
+<img width="1545" height="870" alt="image" src="https://github.com/user-attachments/assets/e427824f-2d36-4481-8721-b93b8671fe5f" />
+<img width="1545" height="870" alt="image" src="https://github.com/user-attachments/assets/7c1d063a-006f-416a-8200-3200de5bb85c" />
+<img width="1545" height="870" alt="image" src="https://github.com/user-attachments/assets/cdf77f10-5c56-4089-9dee-3a0e40aab7f5" />
+<img width="1545" height="870" alt="image" src="https://github.com/user-attachments/assets/dd1c2543-edbf-4d48-bfa6-a89e92676773" />
 
 ## 📋 项目说明
 
